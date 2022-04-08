@@ -15,7 +15,7 @@ import 'binding.dart';
 import 'disposable_build_context.dart';
 import 'framework.dart';
 import 'localizations.dart';
-import 'media_query.dart';
+import 'media_query.dart';  
 import 'placeholder.dart';
 import 'scroll_aware_image_provider.dart';
 import 'text.dart';
